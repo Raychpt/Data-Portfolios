@@ -17,3 +17,12 @@ KEY FEATURES
 Notes: Notes: The raw data only include total product cost and does not include detailed information on costs. As such, cost structures/breakdowns are not reflected in the dashboard. Similarly, the data does not include other information on customer profile such as age, gender, occupation. In this regard, customer profiles are not reflected in the dashboard
 
 # Python
+This is my capstone project during a Python Fundamentals online class. The project contains a multiple functionality of simple bank transactions. Through this project I gained basic Python coding knowledge and learned about basic Python operations, dictionaries, lists, functions, and loops.
+
+Main Menu
+![Main Menu](https://github.com/Raychpt/Data-Portfolios/assets/153330953/60c89c8a-d4f7-427a-9ee7-cb8ac96c9503)
+
+
+
+
+
