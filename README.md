@@ -1,6 +1,15 @@
 # Data-Portfolios
 This repository contains all my portfolio projects.
 
-Power BI
+# Power BI
+I created this dashbaord during a free Power BI class conducted by Data Anaytics Philippines. This Executive Sales Dashboard offers a snapshot of key performance indicators (KPIs). Designed with the busy executives in mind, this dashboard provides a quick and intuitive overview of business performance across various dimensions.
 
-Python
+KEY FEATURES
+1.	Sales Performance: Instantly assess the company's sales performance with clear visuals displaying profit trends over time. Dive deeper into country or product-specific sales data with interactive filters for a more granular analysis.
+2.	Profit Margins: Track profit margins in real-time and identify factors impacting profitability. Visualizations highlight profit trends, allowing executives to make timely adjustments to business strategies.
+3.	Units Sold: Monitor product demand and sales volumes to gauge market penetration and identify top-selling products. Interactive charts provide insights into product performance by category, country, business type, or seller segment.
+4.	Product Profiles: Explore product performance metrics such as sales and identify top-performing products and opportunities for product portfolio optimization.
+
+Notes: Notes: The raw data only include total product cost and does not include detailed information on costs. As such, cost structures/breakdowns are not reflected in the dashboard. Similarly, the data does not include other information on customer profile such as age, gender, occupation. In this regard, customer profiles are not reflected in the dashboard
+
+# Python
