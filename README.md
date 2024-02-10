@@ -20,8 +20,17 @@ Notes: Notes: The raw data only include total product cost and does not include 
 This is my capstone project during a Python Fundamentals online class. The project contains a multiple functionality of simple bank transactions. Through this project I gained basic Python coding knowledge and learned about basic Python operations, dictionaries, lists, functions, and loops.
 
 Main Menu
+
 ![Main Menu](https://github.com/Raychpt/Data-Portfolios/assets/153330953/60c89c8a-d4f7-427a-9ee7-cb8ac96c9503)
 
+
+Successful Login
+
+![Login](https://github.com/Raychpt/Data-Portfolios/assets/153330953/7dcf824f-6bb3-4064-9e5a-959b3baacdcb)
+
+Registration
+
+![Registration](https://github.com/Raychpt/Data-Portfolios/assets/153330953/f0d566b6-061d-4238-b70a-0111e544a47c)
 
 
 
