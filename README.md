@@ -1,5 +1,5 @@
 # Data-Portfolios
-This repository contains all my portfolio projects.
+This repository contains all my data portfolio projects.
 
 # Power BI
 I created this dashbaord during a free Power BI class conducted by Data Anaytics Philippines. This Executive Sales Dashboard offers a snapshot of key performance indicators (KPIs). Designed with the busy executives in mind, this dashboard provides a quick and intuitive overview of business performance across various dimensions.
