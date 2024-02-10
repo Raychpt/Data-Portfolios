@@ -4,6 +4,10 @@ This repository contains all my portfolio projects.
 # Power BI
 I created this dashbaord during a free Power BI class conducted by Data Anaytics Philippines. This Executive Sales Dashboard offers a snapshot of key performance indicators (KPIs). Designed with the busy executives in mind, this dashboard provides a quick and intuitive overview of business performance across various dimensions.
 
+![Powerbi Dashboard](https://github.com/Raychpt/Data-Portfolios/assets/153330953/2791892d-dd9c-4f90-ac50-5d54d9de5767)
+
+
+
 KEY FEATURES
 1.	Sales Performance: Instantly assess the company's sales performance with clear visuals displaying profit trends over time. Dive deeper into country or product-specific sales data with interactive filters for a more granular analysis.
 2.	Profit Margins: Track profit margins in real-time and identify factors impacting profitability. Visualizations highlight profit trends, allowing executives to make timely adjustments to business strategies.
