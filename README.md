@@ -32,6 +32,16 @@ Registration
 
 ![Registration](https://github.com/Raychpt/Data-Portfolios/assets/153330953/f0d566b6-061d-4238-b70a-0111e544a47c)
 
+Deposit
 
+![Deposit](https://github.com/Raychpt/Data-Portfolios/assets/153330953/ab2cdce9-b4ce-43ce-956b-1f3233d6277f)
+
+Withdraw and Account Balance
+
+![withdraw and balance](https://github.com/Raychpt/Data-Portfolios/assets/153330953/668cc027-0f94-4343-ac98-63e0a4067b6f)
+
+Transfer Funds
+
+![Transfer Funds](https://github.com/Raychpt/Data-Portfolios/assets/153330953/619d7a78-907a-4aed-961b-76bfdddaca91)
 
 
